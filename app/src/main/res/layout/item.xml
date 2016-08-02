@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.android.lakeview.MainActivity">
+    <TextView
+        style="@style/Divider" />
+    <TextView
+        style="@style/TitleCaption"
+        android:text="@string/wrigleyville_wrigley_field"
+        android:id="@+id/attraction_text_view"/>
+    <ImageView
+        style="@style/ImageView"
+        android:src="@drawable/wriggleyville_old_crow"
+        android:id="@+id/attraction_image_view"/>
+
+    <TextView
+        style="@style/Descripton"
+        android:text="@string/wrigleyville_wrigley_field_desc"
+        android:id="@+id/description_text_view"/>
+
+
+</LinearLayout>

@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Lakeview</string>
+
+    <!-- Main Activity-->
+    <string name="slogan">One of Chicago\'s most lively neighborhoods</string>
+    <string name="neighborhoods_within_the_neighborhood">Neighborhoods within the Neighborhood</string>
+    <string name="wrigleyville">Wrigleyville</string>
+    <string name="boystown">Boystown</string>
+    <string name="lakeview_east">Lakeview East</string>
+    <string name="more">More</string>
+
+    <!-- Wrigleyville -->
+    <string name="wrigleyville_wrigley_field">Wrigley Field</string>
+    <string name="wrigleyville_wrigley_field_desc">This iconic ballpark first opened in 1914
+        and is the second oldest professional sports stadium in the country.</string>
+
+
+    <string name="wrigleyville_sluggers">Sluggers</string>
+    <string name="wrigleyville_sluggers_desc">A bar with batting cages&#8230; Dangerous? Possibly.
+    Fun? Definitely.</string>
+
+    <string name="wrigleyville_old_crow">Old Crow</string>
+    <string name="wrigleyville_old_crow_desc">Live country music and BBQ at this popular bar.</string>
+
+    <string name="wrigleyville_pick_me_up">Pick Me Up</string>
+    <string name="wrigleyville_pick_me_up_desc">Vegan-friendly brunch and late-night spot.</string>
+
+    <string name="wrigleyville_goose_island">Goose Island</string>
+    <string name="wrigleyville_goose_island_desc">Chicago\'s own 312 beer both brewed and served
+    at this sports pub.</string>
+
+    <string name="wrigleyville_deuces">Deuces and Diamonds</string>
+    <string name="wrigleyville_deuces_desc">Outdoors: cabana with a water fountain.
+        \nIndoors: light-up escalator to a dancefloor.</string>
+
+    <string name="wrigleyville_rooftop">Rooftop Seats</string>
+    <string name="wrigleyville_rooftop_desc">All you can eat and drink while watching the Cubbies
+        from rooftop bleachers.</string>
+
+    <!-- Boystown -->
+    <string name="boystown_ann_sather">Ann Sather</string>
+    <string name="boystown_ann_sather_desc">Best cinnabuns in the city.</string>
+
+    <string name="boystown_sidetrack">Sidetrack</string>
+    <string name="boystown_sidetrack_desc">Lively gay nightclub.</string>
+
+    <string name="boystown_hb">HB</string>
+    <string name="boystown_hb_desc">One of the best restaurants in Boystown.</string>
+
+    <string name="boystown_playground">The Playground Theater.</string>
+    <string name="boystown_playground_desc">Very entertaining improv.</string>
+
+    <string name="boystown_pride_parade">Pride Parade</string>
+    <string name="boystown_pride_parade_desc">One of the largest gay pride parades in the country.</string>
+
+    <string name="boystown_roscoes">Roscoe\'s</string>
+    <string name="boystown_roscoes_desc">Very popular gay bar.</string>
+
+    <!-- Lakeview east -->
+    <string name="lakeview_east_belmont_harbor">Belmont Harbor</string>
+    <string name="lakeview_east_belmont_harbor_desc">Need a place to dock your boat?
+        So jealous&#8230;</string>
+
+    <string name="lakeview_east_frances">Frances\' Deli</string>
+    <string name="lakeview_east_frances_desc">Their spiked oreo shakes are to die for.</string>
+
+    <string name="lakeview_east_lakeshore_path">Path on Lakeshore</string>
+    <string name="lakeview_east_lakeshore_path_desc">Take in the beauty of Lake Michigan while you run or ride your
+        bike.</string>
+
+    <string name="lakeview_east_tin_lizzie">Tin Lizzie</string>
+    <string name="lakeview_east_tin_lizzie_desc">Turtle racing during Friday happy hour.</string>
+
+    <string name="lakeview_east_weiner_circle">Weiner Circle</string>
+    <string name="lakeview_east_weiner_circle_desc">Lengendary late night food joint. The staff will deliver insults to
+        its drunken customers all night long leading to some epic post-bar encounters.</string>
+
+    <!-- More -->
+    <string name="more_big_and_littles">Big and Littles</string>
+    <string name="more_big_and_littles_desc">Popular fast food spot serving delicious tacos,
+     burgers, and burritos.</string>
+
+    <string name="more_cba">Chicago Bagel Authority</string>
+    <string name="more_cba_desc">The best bagels and bagel sandwiches in the city.</string>
+
+    <string name="more_dmk">DMK</string>
+    <string name="more_dmk_desc">Mouthwatering burgers.</string>
+
+    <string name="more_laugh_factory">Laugh Factory</string>
+    <string name="more_laugh_factory_desc">Famous comedy club.</string>
+
+    <string name="more_vic">The Vic</string>
+    <string name="more_vic_desc">Run-down? Nah, this place has character. With general admission seating,
+        the Vic regularly has dedicated fans willing to camp out to see their favorite music
+        artists up close.</string>
+
+</resources>
